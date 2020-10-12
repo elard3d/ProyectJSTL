@@ -40,10 +40,10 @@ public class HomeController {
 		ArrayList<Producto> productos = new ArrayList<Producto>();
 		
 		Producto p1 = new Producto(1, "Laptop 1", 1490);
-		Producto p2 = new Producto(2, "Laptop 2", 1499);
-		Producto p3 = new Producto(3, "Laptop 3", 1409);
-		Producto p4 = new Producto(4, "Laptop 4", 1419);
-		Producto p5 = new Producto(5, "Laptop 5", 1449);
+		Producto p2 = new Producto(2, "Laptop 2", 2499);
+		Producto p3 = new Producto(3, "Laptop 3", 3409);
+		Producto p4 = new Producto(4, "Laptop 4", 519);
+		Producto p5 = new Producto(5, "Laptop 5", 145618);
 		
 		productos.add(p1);
 		productos.add(p2);
